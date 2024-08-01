@@ -116,10 +116,10 @@ export const WETH = {
   ),
   [ChainId.IOTEX]: new Token(
     ChainId.IOTEX,
-    '0x0258866edaf84d6081df17660357ab20a07d0c80',
+    '0xa00744882684c3e4747faefd68d283ea44099d03',
     18,
-    'WETH',
-    'Wrapped ETH',
+    'WIOTX',
+    'Wrapped IOTX',
     'https://iotex.io/'
   ),
 }
